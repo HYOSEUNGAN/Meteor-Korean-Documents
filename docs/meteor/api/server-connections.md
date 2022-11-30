@@ -1,5 +1,5 @@
 ---
-title: 서버 커넥션
+title: 서버 커넥션 (aiden)
 ---
 
 # 서버 커넥션 %{ #server-connections }%
